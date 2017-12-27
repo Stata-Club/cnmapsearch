@@ -1,0 +1,4 @@
+v 1
+d cnmapsearch Author: Chuntao Li & Yuan Xue & Xueren Zhang
+
+p CNMAPSEARCH: Stata module to extract the specified information by keyword in a certain geographic range.
